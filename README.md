@@ -9,3 +9,4 @@ Format :- [firstname-lastname](linkedin profile link)
 [Samarth Thosar](https://www.linkedin.com/in/samarth-thosar/ "Open linkedin") Project Head 23-24
 
 ## Execom Team
+[Aditya Dighe](https://www.linkedin.com/in/aditya-dighe/ "Open Linkedin" ) Technical
